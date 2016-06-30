@@ -61,14 +61,14 @@ ModelImporter:
     9500000: //RootNode
     11100000: //RootNode
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleRotations: 1
-    optimizeGameObjects: 1
+    optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
     animationImportWarnings: 
@@ -93,7 +93,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
-      loopBlend: 0
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
@@ -108,35 +108,27 @@ ModelImporter:
       transformMask:
       - path: 
         weight: 1
-      - path: Bone_ROOT
+      - path: Bone_body
         weight: 1
-      - path: Bone_ROOT/Bone_HEAD
+      - path: Bone_body/Bone_jaw
         weight: 1
-      - path: Bone_ROOT/Bone_HEAD/Bone_JAW
+      - path: Bone_body/Bone_lip
         weight: 1
-      - path: Bone_ROOT/Bone_LelgLB_00
+      - path: Bone_body/BoneLegBkL_00
         weight: 1
-      - path: Bone_ROOT/Bone_LelgLB_00/Bone_LelgLB_01
+      - path: Bone_body/BoneLegBkL_00/BoneLegBkL_01
         weight: 1
-      - path: Bone_ROOT/Bone_LelgLB_00/Bone_LelgLB_01/Bone_LelgLB_02
+      - path: Bone_body/BoneLegBkR_00
         weight: 1
-      - path: Bone_ROOT/Bone_LelgLF_00
+      - path: Bone_body/BoneLegBkR_00/BoneLegBkR_01
         weight: 1
-      - path: Bone_ROOT/Bone_LelgLF_00/Bone_LelgLF_01
+      - path: Bone_body/BoneLegFrL_00
         weight: 1
-      - path: Bone_ROOT/Bone_LelgLF_00/Bone_LelgLF_01/Bone_LelgLF_02
+      - path: Bone_body/BoneLegFrL_00/BoneLegFrL_01
         weight: 1
-      - path: Bone_ROOT/Bone_LelgRB_00
+      - path: Bone_body/BoneLegFrR_00
         weight: 1
-      - path: Bone_ROOT/Bone_LelgRB_00/Bone_LelgRB_01
-        weight: 1
-      - path: Bone_ROOT/Bone_LelgRB_00/Bone_LelgRB_01/Bone_LelgRB_02
-        weight: 1
-      - path: Bone_ROOT/Bone_LelgRF_00
-        weight: 1
-      - path: Bone_ROOT/Bone_LelgRF_00/Bone_LelgRF_01
-        weight: 1
-      - path: Bone_ROOT/Bone_LelgRF_00/Bone_LelgRF_01/Bone_LelgRF_02
+      - path: Bone_body/BoneLegFrR_00/BoneLegFrR_01
         weight: 1
       maskType: 0
       maskSource: {instanceID: 0}
@@ -162,7 +154,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 4
+    tangentImportMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
