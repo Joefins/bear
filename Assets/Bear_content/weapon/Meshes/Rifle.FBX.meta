@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 4c42215461045804cb494d2c2b4fb22d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: weapon_automat_1_battle
+    100002: weapon_automat_2_battle
+    100004: weapon_automat_3_battle
+    100006: weapon_automat_3_shop02
+    100008: weapon_automat_2_shop
+    100010: weapon_automat_1_shop
+    100012: //RootNode
+    400000: weapon_automat_1_battle
+    400002: weapon_automat_2_battle
+    400004: weapon_automat_3_battle
+    400006: weapon_automat_3_shop02
+    400008: weapon_automat_2_shop
+    400010: weapon_automat_1_shop
+    400012: //RootNode
+    2300000: weapon_automat_1_battle
+    2300002: weapon_automat_2_battle
+    2300004: weapon_automat_3_battle
+    2300006: weapon_automat_3_shop02
+    2300008: weapon_automat_2_shop
+    2300010: weapon_automat_1_shop
+    3300000: weapon_automat_1_battle
+    3300002: weapon_automat_2_battle
+    3300004: weapon_automat_3_battle
+    3300006: weapon_automat_3_shop02
+    3300008: weapon_automat_2_shop
+    3300010: weapon_automat_1_shop
+    4300000: weapon_automat_1_shop
+    4300002: weapon_automat_2_shop
+    4300004: weapon_automat_3_shop02
+    4300006: weapon_automat_3_battle
+    4300008: weapon_automat_2_battle
+    4300010: weapon_automat_1_battle
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
