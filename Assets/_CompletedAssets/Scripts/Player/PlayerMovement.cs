@@ -110,8 +110,10 @@ namespace CompleteProject
             // Create a boolean that is true if either of the input axes is non-zero.
             bool walking = h != 0f || v != 0f;
 
+
             // Tell the animator whether or not the player is walking.
             anim.SetBool ("IsWalking", walking);
+			anim.SetFloat ("WalkDir", v);
         }
     }
 }

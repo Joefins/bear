@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 816583de8b14e9645a8ea63ccc1d0a6c
-timeCreated: 1467309098
+timeCreated: 1467375924
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -61,7 +61,7 @@ ModelImporter:
     9500000: //RootNode
     13700000: bear
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
@@ -87,7 +87,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importBlendShapes: 1
+    importBlendShapes: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -103,7 +103,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     human: []

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AF777351-00D0-C072-5B5F-4D0AD07F99D0}") = "bear.git", "Assembly-CSharp.csproj", "{436732A2-6253-853E-7D60-A3F14F54EDAC}"
+EndProject
+Project("{AF777351-00D0-C072-5B5F-4D0AD07F99D0}") = "bear.git", "Assembly-CSharp-Editor.csproj", "{FB36966D-7F8A-07ED-48C0-AD98322EBDE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436732A2-6253-853E-7D60-A3F14F54EDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436732A2-6253-853E-7D60-A3F14F54EDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436732A2-6253-853E-7D60-A3F14F54EDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436732A2-6253-853E-7D60-A3F14F54EDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB36966D-7F8A-07ED-48C0-AD98322EBDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB36966D-7F8A-07ED-48C0-AD98322EBDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB36966D-7F8A-07ED-48C0-AD98322EBDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB36966D-7F8A-07ED-48C0-AD98322EBDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
